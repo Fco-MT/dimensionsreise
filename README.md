@@ -41,6 +41,12 @@ Die Datei `index.html` genügt – einfach herunterladen und lokal im Browser
 öffnen oder auf einen beliebigen Webserver legen. Alle Texte der drei Sprachen
 stehen gesammelt im `T`-Objekt im Skriptteil der Datei.
 
+## Autor und Lizenz
+
+© 2026 Manfred Sablotny
+
+Dieses Werk ist lizenziert unter einer [Creative-Commons-Lizenz „Namensnennung 4.0 International“ (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) – siehe [LICENSE](LICENSE). Du darfst die Seite frei teilen und bearbeiten (auch für den eigenen Unterricht), solange der Autor genannt wird.
+
 ---
 
 *„Manchmal ist das Unmögliche nur eine Richtung weiter.“*
