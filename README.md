@@ -1,6 +1,6 @@
 # Dimension Journey (Dimensionsreise)
 
-🌐 **English** · [Deutsch](README.de.md)
+🌐 **English** · [Deutsch](README.de.md) · [中文](README.zh-Hant.md)
 
 **Same event – different worlds – new perspectives**
 

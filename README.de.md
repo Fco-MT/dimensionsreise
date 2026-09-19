@@ -1,6 +1,6 @@
 # Dimensionsreise
 
-🌐 [English](README.md) · **Deutsch**
+🌐 [English](README.md) · **Deutsch** · [中文](README.zh-Hant.md)
 
 **Gleicher Vorgang – verschiedene Welten – neue Perspektiven**
 
