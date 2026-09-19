@@ -1,52 +1,54 @@
-# Dimensionsreise
+# Dimension Journey (Dimensionsreise)
 
-**Gleicher Vorgang – verschiedene Welten – neue Perspektiven**
+🌐 **English** · [Deutsch](README.de.md)
 
-Eine interaktive, animierte Erklärseite zu Raumdimensionen von 1D bis 5D.
-Eine Katze, ein Ball und fünf Welten: Derselbe Vorgang wird in jeder Dimension
-gezeigt – einmal aus Sicht der Katze selbst und einmal aus Sicht eines Wesens
-aus der nächsthöheren Dimension.
+**Same event – different worlds – new perspectives**
 
-**➡️ Live-Seite: https://fco-mt.github.io/dimensionsreise/**
+An interactive, animated web page explaining spatial dimensions from 1D to 5D.
+A cat, a ball and five worlds: the same event plays out in every dimension –
+once as seen by the cat herself, and once as seen by a being from the next
+higher dimension.
 
-## Was die Seite zeigt
+**➡️ Live page: https://fco-mt.github.io/dimensionsreise/**
 
-- **Fünf Welten nebeneinander:** Linie (1D), Fläche (2D), Raum (3D), 4D-Raum und 5D-Raum – in jeder Spalte läuft synchron dieselbe Geschichte.
-- **Drei wählbare Vorgänge** (unter „Einstellungen“):
-  - Ball über das Hindernis heben
-  - Finger durch die Welt stecken
-  - Nur Alltag (kein Eingriff)
-- **Perspektivwechsel:** Was sieht die Katze wirklich? Immer nur ein Bild mit einer Dimension weniger als ihre Welt. Und was sähe das höhere Wesen?
-- **Bedienung:** Animation abspielen, pausieren, zurücksetzen, Geschwindigkeit und Ablauf per Regler steuern; einzelne Dimensionen lassen sich groß hervorheben – praktisch für den Beamer im Unterricht.
-- **Dreisprachig:** Deutsch · English · 中文 (per Knopfdruck umschaltbar)
+## What the page shows
 
-## Das Prinzip dahinter
+- **Five worlds side by side:** line (1D), plane (2D), space (3D), 4D space and 5D space – the same story runs synchronously in every column.
+- **Three selectable events** (under “Settings”):
+  - lifting the ball over the obstacle
+  - poking a finger through the cat’s world
+  - everyday life only (no intervention)
+- **Change of perspective:** What does the cat actually see? Always just an image with one dimension less than her world. And what would the higher being see?
+- **Controls:** play, pause and reset the animation, adjust speed and timeline with sliders; individual dimensions can be enlarged – handy for a projector in the classroom.
+- **Trilingual:** Deutsch · English · 中文 (switchable at the click of a button)
 
-> Ein Wesen aus einer höheren Dimension kann Objekte in eine Richtung bewegen,
-> die in der niedrigeren Dimension nicht existiert.
+## The principle behind it
 
-Was in einer Welt unmöglich ist (ein Ball verschwindet aus einer verschlossenen
-Vitrine), ist eine Dimension höher ganz einfach.
+> A being from a higher dimension can move objects in a direction that does
+> not exist in the lower dimension.
 
-## Technik
+What is impossible in one world (a ball vanishing from a sealed display case)
+is perfectly easy one dimension up.
 
-- Eine einzige Datei: [`index.html`](index.html) – ohne Build-Schritt, ohne Abhängigkeiten (nur Schriften von Google Fonts)
-- Animationen mit reinem JavaScript auf HTML-Canvas
-- Responsiv (Desktop bis Smartphone), berücksichtigt `prefers-reduced-motion`
-- Gehostet über GitHub Pages (Branch `main`, Ordner `/`)
+## Technical details
 
-## Selbst hosten oder anpassen
+- A single file: [`index.html`](index.html) – no build step, no dependencies (only fonts from Google Fonts)
+- Animations in plain JavaScript on HTML canvas
+- Responsive (desktop to smartphone), respects `prefers-reduced-motion`
+- Hosted via GitHub Pages (branch `main`, folder `/`)
 
-Die Datei `index.html` genügt – einfach herunterladen und lokal im Browser
-öffnen oder auf einen beliebigen Webserver legen. Alle Texte der drei Sprachen
-stehen gesammelt im `T`-Objekt im Skriptteil der Datei.
+## Self-hosting and customising
 
-## Autor und Lizenz
+The file `index.html` is all you need – just download it and open it locally
+in a browser, or put it on any web server. All texts for the three languages
+are collected in the `T` object in the script section of the file.
+
+## Author and licence
 
 © 2026 Manfred Sablotny
 
-Dieses Werk ist lizenziert unter einer [Creative-Commons-Lizenz „Namensnennung 4.0 International“ (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) – siehe [LICENSE](LICENSE). Du darfst die Seite frei teilen und bearbeiten (auch für den eigenen Unterricht), solange der Autor genannt wird.
+This work is licensed under a [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) – see [LICENSE](LICENSE). You are free to share and adapt the page (including for your own teaching), as long as the author is credited.
 
 ---
 
-*„Manchmal ist das Unmögliche nur eine Richtung weiter.“*
+*“Sometimes the impossible is just one direction away.”*
